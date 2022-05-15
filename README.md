@@ -25,6 +25,7 @@ The objective is to determine the number of retiring employess per title and ide
     The query to obtain the total number of eligible retiries by title and the total sum is:
     
 ![Alt text](https://github.com/Jimena-QM/Pewlett-Hackard-Analysis/blob/main/Resources/total_unique_titles.png "Sum of Total Unique Titles")
+
     The query to get the number of current employees is:
     
 ![Alt text](https://github.com/Jimena-QM/Pewlett-Hackard-Analysis/blob/main/Resources/total_employees.png "Total active employees")
